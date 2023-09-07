@@ -1,0 +1,24 @@
+#bye{
+  color:chartreuse !important
+}
+
+i.hiii#bye{
+  color: SteelBlue
+}
+
+h1{
+font-weight: bold;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.firstH1{
+color: blue
+}
+
+.firstH1:hover{
+  color: pink
+}
+
+.firstH1.secondH1 {
+  color: red
+}
